@@ -65,5 +65,10 @@
   "volta": {
     "node": "22.12.0",
     "yarn": "4.12.0"
+  },
+  "msw": {
+    "workerDirectory": [
+      "public"
+    ]
   }
 }
